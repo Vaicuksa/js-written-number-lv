@@ -245,7 +245,7 @@ module.exports={
 },{}],4:[function(require,module,exports){
 module.exports={
   "useLongScale": false,
-  "baseSeparator": "",
+  "baseSeparator": "  ",
   "unitSeparator": "",
   "base": {
     "0": "nulle",
